@@ -1,7 +1,1 @@
 /* your code */
-table,td,tr{
-		border:1px solid black;
-		width: 100px;
-		height:15px;
-		table-layout:fixed;
-	 }
